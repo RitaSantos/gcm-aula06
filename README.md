@@ -3,7 +3,7 @@
 * RCV
 * CVS
 * Source Safe
-* SVN
+* Clear Case
 * Mercurial
 * GitHub
 * Bitbuket
