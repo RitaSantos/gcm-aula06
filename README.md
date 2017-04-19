@@ -1,9 +1,13 @@
 # gcm-aula06
 
 * RCV
+* Perforce
 * CVS
 * Source Safe
-* Clear Case
+* Bazaar
+* SVN
 * Mercurial
-* Perforce
+* Clear Case
+* GitHub
 * Bitbuket
+* Visual Studio Team Services
